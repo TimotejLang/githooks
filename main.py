@@ -7,6 +7,6 @@ def main():
         greet(name)
 
 
-# yoo bruv ehehsahs - popravek komentarja
+# yoo bruv ehehsahs - popravek komentarja, dodan commit-msg in prepare-commit-msg hooki
 if __name__ == "__main__":
     main()
