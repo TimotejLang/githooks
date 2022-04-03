@@ -7,6 +7,6 @@ def main():
         greet(name)
 
 
-# yoo
+# yoo bruv ehehsahs
 if __name__ == "__main__":
     main()
