@@ -7,6 +7,6 @@ def main():
         greet(name)
 
 
-# yoo bruv ehehsahs
+# yoo bruv ehehsahs - popravek komentarja
 if __name__ == "__main__":
     main()
